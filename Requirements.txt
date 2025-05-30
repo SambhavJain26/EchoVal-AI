@@ -1,0 +1,17 @@
+modal
+python-dotenv
+flask
+flask-socketio
+gradio
+nltk
+langchain
+langchain-openai
+langchain_chroma
+langchain[docarray]
+langchain_community
+pydantic
+gunicorn
+eventlet
+openai
+feedparser
+
