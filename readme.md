@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-**EchoVal AI** is an intelligent, multi-agent system designed to automatically find the best online deals, estimate their value, and send real-time push notifications. It leverages a fine-tuned LLM (trained on 400K+ products), a RAG pipeline, and is deployed on **Modal**. A simple **Gradio** UI enables easy interaction and testing.
+**EchoVal AI** is an intelligent, multi-agent system designed to automatically find the best online deals, estimate their value, and send real-time push notifications. It leverages a fine-tuned LLM (trained on 400K+ products), and is deployed on **Modal**. A simple **Gradio** UI enables easy interaction and testing.
 
 ---
 
